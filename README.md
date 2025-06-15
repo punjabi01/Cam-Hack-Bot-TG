@@ -71,7 +71,7 @@ Use responsibly.
 
 **ZAARA Ziof**
 
-Follow me on GitHub: [ZAARA-Ziof](https://github.com/ZAARA-Ziof)
+Follow me on GitHub: [ZAARA-Ziof](https://github.com/zaaraZiof0)
 
 ---
 
